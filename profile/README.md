@@ -12,7 +12,6 @@ Wir sind ein leidenschaftliches und junges Team, das aus Leidenschaft gemeinsam 
 - Sauberer, gut dokumentierter Code
 - Zusammenarbeit auf Augenhöhe
 - Code Reviews für kontinuierliche Verbesserung
-- Nutzung moderner Entwicklungs- und CI/CD-Pipelines
 
 ## 💬 Kontakt
 Wir sind offen für Kollaborationen, spannende Projekte und neue Herausforderungen. Schreibt uns einfach eine Nachricht!
