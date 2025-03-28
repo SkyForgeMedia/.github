@@ -6,7 +6,7 @@ Wir sind ein leidenschaftliches und junges Team, das aus Leidenschaft gemeinsam 
 ## 🛠 Unsere Kompetenzen
 - **Webentwicklung:** JavaScript, Node.js, python, React, TailwindCSS
 - **Backend & Datenbanken:** MongoDB, MySQL
-- **Tools & Technologien:** Git, GitHub, Docker, CI/CD
+- **Tools & Technologien:** Git, GitHub, Docker
 
 ## 🤝 Unser Arbeitsstil
 - Sauberer, gut dokumentierter Code
