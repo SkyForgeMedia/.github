@@ -1,7 +1,7 @@
 # 👥 Unser Entwicklungsteam - GitHub Profil
 
 ## 🌟 Wer wir sind
-Wir sind ein leidenschaftliches und junges Team, das aus Leidenschaft gemeinsam an verschiedenen Projekten arbeiten 
+Wir sind ein leidenschaftliches und junges Team, das aus Leidenschaft gemeinsam an verschiedenen Projekten arbeitet
 
 ## 🛠 Unsere Kompetenzen
 - **Webentwicklung:** JavaScript, Node.js, python, React, TailwindCSS
